@@ -1,0 +1,44 @@
+[
+    {
+        "text":"Sample Note 1",
+       "id":"clh0sfb6n0000dwdx6p3egbom",
+       "createdAt":"2023-04-28T16:48:09.311Z",
+       "updatedAt":"2023-04-28T16:48:09.311Z",
+        "isArchived":false
+    },
+    {
+        "text":"Sample Note 2",
+       "id":"clh0sfy800001dwdx1y49ga3f",
+       "createdAt":"2023-04-28T16:48:39.168Z",
+       "updatedAt":"2023-04-28T16:48:39.168Z",
+        "isArchived":false
+    },
+    {
+        "text":"Sample Note 3",
+       "id":"clh0tjocz0002dwdx7vz692pu",
+       "createdAt":"2023-04-28T17:19:32.627Z",
+       "updatedAt":"2023-04-28T17:19:32.627Z",
+        "isArchived":false
+    },
+    {
+        "text":"",
+       "id":"clh0tt0fw0003dwdxa48n1ts3",
+       "createdAt":"2023-04-28T17:26:48.188Z",
+       "updatedAt":"2023-04-28T17:26:48.188Z",
+        "isArchived":false
+    },
+    {
+        "text":"Poll",
+       "id":"clh0tus8p0004dwdx0lrf67ks",
+       "createdAt":"2023-04-28T17:28:10.873Z",
+       "updatedAt":"2023-04-28T17:28:10.873Z",
+        "isArchived":false
+    },
+    {
+        "text":"Poll2",
+       "id":"clh0tuxk50005dwdxat4j26hs",
+       "createdAt":"2023-04-28T17:28:17.765Z",
+       "updatedAt":"2023-04-28T17:28:17.765Z",
+        "isArchived":false
+    }
+ ]
